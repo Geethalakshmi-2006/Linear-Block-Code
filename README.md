@@ -6,7 +6,7 @@
 Write a simple python program to Generate Matrix, Codeword, Hamming weight, Syndrome matrix and find the error on received codeword using Linear block code. 
 # Tools required
 Python: A versatile programming language used for scientific computing and signal processing. NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations. Matplotlib: A plotting library for generating high-quality graphs and visualizations of data, essentialfor demonstrating the sampling process.
-# Program:
+# Program
 ```
 import numpy as np
 
@@ -97,9 +97,9 @@ print("Error Vector :", " ".join(map(str, error)))
 corrected = np.mod(r + error, 2)
 print("Corrected Codeword :", " ".join(map(str, corrected)))
 ```
-# Output:
+# Output
 <img width="584" height="713" alt="image" src="https://github.com/user-attachments/assets/054f638a-456f-4c4f-8fbc-426a1a703676" />
 
 
-# Result:
+# Result
 Thus linear block code operation for the given input is successfully verified.
