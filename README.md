@@ -98,7 +98,7 @@ corrected = np.mod(r + error, 2)
 print("Corrected Codeword :", " ".join(map(str, corrected)))
 ```
 # Output
-<img width="584" height="713" alt="image" src="https://github.com/user-attachments/assets/054f638a-456f-4c4f-8fbc-426a1a703676" />
+<img width="498" height="719" alt="image" src="https://github.com/user-attachments/assets/5cf8ad62-cf95-4e30-97b6-af02755a2c22" />
 
 
 # Result
