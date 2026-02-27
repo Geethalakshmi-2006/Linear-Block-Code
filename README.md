@@ -98,7 +98,8 @@ corrected = np.mod(r + error, 2)
 print("Corrected Codeword :", " ".join(map(str, corrected)))
 ```
 # Output:
-<img width="805" height="679" alt="image" src="https://github.com/user-attachments/assets/b542e833-0c90-43d1-9f02-6bd9c1ec7c82" />
+<img width="584" height="713" alt="image" src="https://github.com/user-attachments/assets/054f638a-456f-4c4f-8fbc-426a1a703676" />
+
 
 # Result:
 Thus linear block code operation for the given input is successfully verified.
